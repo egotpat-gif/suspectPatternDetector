@@ -1,0 +1,2 @@
+# suspectPatternDetector
+Suspect Pattern Detector
